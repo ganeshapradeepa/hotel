@@ -1,0 +1,41 @@
+.name{
+  position: relative;
+  bottom: 300px;
+  margin-top: 50px;
+  margin-left: 400px;
+ font-size: 25px;
+}
+.pa{
+  position: relative;
+  bottom: 50px;
+}
+.up{
+  position: relative;
+  bottom: 350px;
+  display: block;
+  margin-left: 100px;
+}
+.product-img {
+  position: relative;
+  top: 0px;
+  width: 250px;
+height: 250px;
+
+}
+.meal h3 {
+  margin: 0 0 0.50rem 0;
+}
+
+.description {
+  position: relative;
+ bottom: 20px;
+  font-style: italic;
+  font-size: 25px;
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: 300px;
+  color: #ad5502;
+  font-size: 1.25rem;
+}

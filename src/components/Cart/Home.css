@@ -1,0 +1,59 @@
+.product-img {
+  width: 250px;
+height: 250px;
+margin-left: 20px;
+  
+}
+.rom{
+  margin-left: 30px;
+  
+ }
+
+  .bol{
+    font-weight: 300px;
+    font-size: 1.25rem;
+    color: rgb(25, 19, 19);
+  }
+  
+
+ 
+  
+  .he {
+    font-size: 30px;
+  }
+  
+  .para{
+    font-size: 20px;
+  }
+  .cart{
+    display: block;
+    margin-left: 47rem;
+   margin-block-start: 10px;
+      text-align: right;
+      font: inherit;
+      cursor: pointer;
+      background-color: #8a2b06;
+      border: 1px solid #8a2b06;
+      color: white;
+      padding: 0.25rem 2rem;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+    
+    .cart button:hover,
+    .cart button:active {
+      background-color: #641e03;
+      border-color: #641e03;
+    }
+  
+  @keyframes meals-appear {
+    from {
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

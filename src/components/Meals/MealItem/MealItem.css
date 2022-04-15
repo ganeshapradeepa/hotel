@@ -1,0 +1,74 @@
+.ent{
+  display: block;
+  border-radius: 10px;
+}
+.nm{
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 100px;
+  margin-bottom: -100px;
+}
+.nam{
+  position: relative;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 80px;
+  margin-bottom: -100px;
+}
+.meal {
+    display: flex;
+    flex: 1;
+     flex-direction: row;
+    border-bottom: 1px solid rgb(12, 11, 11);
+  }
+  .nme{
+    display: block;
+    border-radius: 5px;
+    width: 350px;
+    height: 350px;
+  }
+  .name{
+    display: block;
+    position: relative;
+    bottom: 260px;
+    margin-left: 400px;
+  }
+  
+  .cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    max-height: 400px;
+    max-width: 100%;
+    background-color: white;
+    z-index: 1;
+  }
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  .up{
+    display: block;
+    position: relative;
+   bottom: 250px;
+   margin-left: 95px;
+  }
+  .description {
+    font-style: italic;
+    font-size: 25px;
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+  }
+  .img {
+    width: 100px;
+    height: 100px;
+  }
+  
